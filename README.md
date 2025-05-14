@@ -1,1 +1,3 @@
-# jtam.github.io
+```bash
+bun run .\server.js
+```
